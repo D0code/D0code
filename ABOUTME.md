@@ -1,0 +1,6 @@
+- 👋 Hi, I’m [@pancake](https://github.com/D0code), also known as Reda!
+- 👀 I’m interested in software and front-end web develpment.
+- 🌱 I’m currently learning computer science in my third year of university in Algeria.
+- 📫 How to reach me: [Email](smowwbean@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohmed-reda-berkoun-601330336/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy FPS games and am always down for a competitive 1v1!
